@@ -1,91 +1,139 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Diana Benítez
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Diana Benítez
+Teacher, Entrepreneur
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+Last update on: Sat Oct 23 21:58:14 EDT 2019
 </div>
 
+## Contact
 
-## Currently
+`Address`
+5958 Crooked Creek Dr, Corpus Christi, Texas, 78414, U.S
 
-Standing on the shoulders of giants
+`Telephones`
++1 (361) 500-9547
+
+`Email`
+debenitez0915@gmail.com
+
+`About me`
+https://about.me/dianabenitez
+
+`Github`
+https://github.com/debenitez0915
+
+`Twitter`
+https://twitter.com/debenitez0915
+
+`Born`
+__Cuba__
+
+`Lives`
+__U.S__
+
+`Birthday`
+July 12, 1983 (36 years old)
+
+`Gender`
+Female
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Cognitive Development
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+Entrepreneurship
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2018-2019`
+**Home Run** - La Habana, Cuba
 
-- Warden
-- Minted coins
+`2016-2018`
+**Knales** - La Habana, Cuba
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2014-2018`
+**Paulita Concepción Middle School** - La Habana, Cuba
 
+`2001-2014`
+**Nguyen Van Troi Elementary School** - La Habana, Cuba
 
+## Education
 
-<!-- ### Footer
+`2017`
+**Business Entrepreneurship Certificate** - Miami Dade College, U.S
 
-Last updated: May 2013 -->
+`2016`
+**Advanced English for Business and Entrepreneurship** - Penn University, U.S
 
+`2015`
+**Diplôme d'études en langue française, Niveau B2, Alliance Française** - La Habana, Cuba
 
+`2008`
+**Bsc. in Accounting** - University of Havana, Cuba
+
+## Awards
+
+`2019,2018`
+**Winner of GES**, Department of State, Washington DC, U.S
+
+`2017`
+**Winner of Atlas Beta**, Stripe, Palo Alto, California, U.S
+
+`2016`
+**Winner of 10 By 10**, Cuba Emprende Foundation, Miami, U.S
+
+## Publications
+
+`2017`
+[How Did Cuba Make It Online?](http://bit.ly/32Jz50l), Knales, Havana, Cuba.
+
+`2017`
+[Tech Entrepreneurship in Cuba](http://bit.ly/2Lsns89), Habana Libre Hotel, Havana, Cuba.
+
+`2017`
+[Cuban Entrepreneurship waiting for an inflection point in
+Internet](http://bit.ly/32FgDG1), EFE, New York, U.S
+
+`2016`
+["Ones to Watch" for Cuba Tech](http://bit.ly/2LruIkp), Havana, Cuba.
+
+<br>
+
+## Languages
+
+`Native`
+Spanish
+
+`Foreigns`
+English
+
+- French
+
+## IT Professional Skills
+
+`OS`
+Windows, Mac OS, Android, iOS and Ubuntu
+
+`Office`
+Microsoft Office, Open Office, WPS and G Suite
+
+## Professional Highlights
+
+Love to teach and develop cognitive skills
+
+- Self motivated
+- Adaptability
+- Leadership
+- Work ethic
+
+### Other skills and hobbies
+
+Advanced Salsa Dancer
+
+- Reader
+- Writer
