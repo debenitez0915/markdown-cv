@@ -15,19 +15,19 @@ Last update on: Sat Oct 23 21:58:14 EDT 2019
 5958 Crooked Creek Dr, Corpus Christi, Texas, 78414, U.S
 
 `Telephones`
-+1 (361) 500-9547
+[+1 (361) 500-9547](tel:+13615009547)
 
 `Email`
-debenitez0915@gmail.com
+[debenitez0915@gmail.com](debenitez0915@gmail.com)
 
 `About me`
-https://about.me/dianabenitez
+[https://about.me/dianabenitez](https://about.me/dianabenitez)
 
 `Github`
-https://github.com/debenitez0915
+[https://github.com/debenitez0915](https://github.com/debenitez0915)
 
 `Twitter`
-https://twitter.com/debenitez0915
+[https://twitter.com/debenitez0915](https://twitter.com/debenitez0915)
 
 `Born`
 __Cuba__
